@@ -1,4 +1,4 @@
-# box-shadow-generators
+# Box Shadow Generator
 Generate Awesome CSS Box Shadow fast and easy
 
 ![boxshadow.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1612172944375/Nm_koBg_E.gif)
